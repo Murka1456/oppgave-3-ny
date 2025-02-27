@@ -1,3 +1,10 @@
+title {
+  background-color: lightpink;
+  font-size: 5em;
+}
+
+
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -17,6 +24,7 @@ li {
   background-image: url('bilder/sjampo.jpg');
   background-size: cover;
 }
+
 
 /*
 body {
