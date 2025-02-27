@@ -8,6 +8,16 @@ li {
   display: inline;
 }
 
+.sjampo{
+  width: 100px;
+}
+
+.flex-between{
+  height: 500px;
+  background-image: url('bilder/sjampo.jpg');
+  background-size: cover;
+}
+
 /*
 body {
   margin: 0;
