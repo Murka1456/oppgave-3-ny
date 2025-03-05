@@ -12,14 +12,14 @@ header {
   padding: 0 rem;
   gap: 0rem;
   border-bottom: solid 1px #aaa;
-  
+}
 
    .bg-bilde {
     /* The image used */
     background-image: url(bilder/background.jpg);
   
     /* Full height */
-    height: 100vh; 
+    height: 80vh; 
   
     /* Center and scale the image nicely */
     background-position: center;
