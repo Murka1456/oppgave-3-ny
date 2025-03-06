@@ -44,7 +44,7 @@ header {
 
 .heroImg {
   width: 80%;
-  height: 5%;
+  height: 500px;
   border: 1px solid green;
   object-fit: cover;
 }
