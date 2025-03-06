@@ -84,22 +84,46 @@ nav {
 }
 
 .card1 {
+  height: 60px;
   border-radius: 50%;
-  max-width: 100 px;
-  background-color: rgb(187, 236, 164)
+  
+  background-color: rgb(187, 236, 164);
+  padding: 10px;
 }
 
 .card2 {
+  height: 60px;
   border-radius: 50%;
-  max-width: 100px;
+  
   background-color: khaki;
+  padding: 10px;
 }
-.card3{
+.card3 {
+  height: 60px;
   border-radius: 50%;
-  max-width: 100px;
-  background-color:rgb(108, 108, 222)
+
+  background-color:rgb(108, 108, 222);
+  padding: 10px;
+  
 
 }
+.div{
+  align-items:center;
+};
+.card text{
+  font:botten
+}
+footer {
+  display: flex;
+  gap: 20px;
+
+}
+.flex-contaner {
+  max-width: 400px;
+  display: flex;
+  justify-content: center;
+}
+
 
 
 
