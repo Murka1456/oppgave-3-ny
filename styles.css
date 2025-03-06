@@ -1,6 +1,7 @@
 h1 {
   background-color: lightpink;
   font-size: 42px;
+  color: brown;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 0;
   width: 60%;
@@ -44,7 +45,7 @@ header {
 
 .heroImg {
   width: 80%;
-  height: 500px;
+  height: 380px;
   border: 1px solid green;
   object-fit: cover;
 }
