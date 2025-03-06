@@ -20,21 +20,33 @@ header {
 .bg-bilde {
   /* The image used */
   background-image: url(bilder/background.jpg);
-
+  display: flex;
   /* Full height */
   height: 80vh;
 
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
+  background-size: cover;
 
 
 }
 
+.bg-text{
+  width: 50%;
+  height: 100%;
+}
+
+.bg-img-div{
+  width: 50%;
+  height: 100%;
+}
+
 .heroImg {
-  width: 20%;
+  width: 100%;
   height: 200px;
   border: 1px solid green;
+  object-fit: cover;
 }
 
 ul {
